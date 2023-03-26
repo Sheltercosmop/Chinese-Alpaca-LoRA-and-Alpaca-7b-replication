@@ -18,7 +18,7 @@ JosephusCheung/GuanacoDateset
 BelleGroup/generated_train_0.5M_CN  
 Baike_qa2019 (Partially used)  
   
-It tooks me about 30 hours on 8 80G A100s to fine-tune this model  
+It tooks us about 30 hours on 8 80G A100s to fine-tune this model  
 
 ## Citation
 ```
