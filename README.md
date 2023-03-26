@@ -3,6 +3,7 @@ This project is supported by AI community: [AcceleratorI](https://www.accelerato
 ## A alpaca-7b-hf replication
 A alpaca-7b-hf replication with no moderation filter and output watermark  
 ## Multilingual Instruction LLaMA LoRA 
+This is a multilingual instruction LLaMA LoRA that mainly focused on Simplified Chinese but also support Japanese and Traditional Chinese(HK and TW)
 ### Version
 Version 0.4 (Newest)  
 This repo has now been updated to the forth version of our training results.
