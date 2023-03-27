@@ -1,4 +1,4 @@
-# Alpaca-7b replication and multilingual-Alpaca-LoRA  OpenSource
+# Huacaya: A Chinese-main multilingual Alpaca LoRA, and a replication of Alpaca-7b
 This project is supported by AI community: [AcceleratorI](https://www.acceleratori.com)  
 ## A alpaca-7b-hf replication
 A alpaca-7b-hf replication with no moderation filter and output watermark  
